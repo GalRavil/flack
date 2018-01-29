@@ -40,7 +40,11 @@ nosetests.xml
 
 # Virtual environment
 .python-version
-venv
+env
 
 # Redis
 dump.rdb
+
+
+# my notes
+my_notes.py
